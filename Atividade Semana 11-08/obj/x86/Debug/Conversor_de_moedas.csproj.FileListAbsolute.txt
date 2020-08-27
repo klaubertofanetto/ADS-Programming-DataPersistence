@@ -1,0 +1,10 @@
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/bin/Debug/Conversor_de_moedas.exe
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/bin/Debug/Conversor_de_moedas.pdb
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.csprojAssemblyReference.cache
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.csproj.CoreCompileInputs.cache
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.exe
+/home/klaubertofanetto/Univali/modulo3_Programming-and-data-persistence/Projetos/Conversor_de_moedas/obj/x86/Debug/Conversor_de_moedas.pdb
+C:\Users\klaub\Downloads\Univali-03PDP-01ConversorMoedas-master\Univali-03PDP-01ConversorMoedas-master\obj\x86\Debug\Conversor_de_moedas.csprojAssemblyReference.cache
+C:\Users\klaub\Downloads\Univali-03PDP-01ConversorMoedas-master\Univali-03PDP-01ConversorMoedas-master\obj\x86\Debug\Conversor_de_moedas.csproj.CoreCompileInputs.cache
+C:\Users\klaub\Downloads\Univali-03PDP-01ConversorMoedas-master\Univali-03PDP-01ConversorMoedas-master\obj\x86\Debug\Conversor_de_moedas.exe
+C:\Users\klaub\Downloads\Univali-03PDP-01ConversorMoedas-master\Univali-03PDP-01ConversorMoedas-master\obj\x86\Debug\Conversor_de_moedas.pdb
